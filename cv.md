@@ -1,8 +1,8 @@
-![MyPhoto](/rsschool-cv/myPhoto.jpg)
+![MyPhoto](/img/myPhoto.jpg)
 # Daniil Sinkevich
 ## Contacts
 + **Locacation**: Minsk, Belarus
-+ **Phone**: +375 29 113-96-06
++ **Phone**: +375 29 113-96-06 
 + **Email**: daniil_sinkevich99@mail.ru
 + **Discord**: Daniil(@DaniUltras)
 + **GitHub**: [DaniUltras](https://github.com/DaniUltras)
