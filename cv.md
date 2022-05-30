@@ -1,4 +1,4 @@
-![MyPhoto](/img/myPhoto.jpg)
+![MyPhoto](/img/myPhoto.jpg =250x)
 # Daniil Sinkevich
 ## Contacts
 + **Locacation**: Minsk, Belarus
