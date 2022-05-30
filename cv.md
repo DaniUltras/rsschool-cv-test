@@ -31,8 +31,8 @@ for (let i = 1; i <=100; i++) {
 };
 ```
 ## Experience
-[GitHub](https://github.com/DaniUltras)
+[GitHub](https://daniultras.github.io/rsschool-cv/cv)
 ## Education
 + **College**: Belarussian National Medical College
 ## English
-**INTERMEDIATE**
+**INTERMEDIATE**(Studying in Lingualeo.com)
