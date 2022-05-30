@@ -2,7 +2,7 @@
 
 # Daniil Sinkevich
 ## Contacts
-+ **Locacation**: Minsk, Belarus
++ **Location**: Minsk, Belarus
 + **Phone**: +375 29 113-96-06 
 + **Email**: daniil_sinkevich99@mail.ru
 + **Discord**: Daniil(@DaniUltras)
