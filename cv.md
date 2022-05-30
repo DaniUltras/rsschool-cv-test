@@ -1,4 +1,4 @@
-![MyPhoto](rsschool-cv/myPhoto.jpg)
+![MyPhoto](/rsschool-cv/myPhoto.jpg)
 # Daniil Sinkevich
 ## Contacts
 + **Locacation**: Minsk, Belarus
